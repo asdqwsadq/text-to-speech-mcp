@@ -1,0 +1,14 @@
+{
+  "name": "text-to-speech-mcp",
+  "version": "1.0.0",
+  "description": "文本转语音 - 将文字转换为自然语音，支持中文/英文/日文等20+语言和多种音色",
+  "runtime": "python",
+  "entry": "entry.py",
+  "transport": "stdio",
+  "type": "stdio",
+  "configSchema": {
+    "type": "object",
+    "properties": {},
+    "required": []
+  }
+}
